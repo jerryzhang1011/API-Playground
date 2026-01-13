@@ -139,10 +139,6 @@ src/
 |----------|--------|
 | `Cmd/Ctrl + Enter` | Send request |
 
-## Resume Bullet
-
-> Built an API playground UI with request builder, response inspector, protocol selector, mock API endpoints, and history persistence to accelerate debugging and integration. Added OpenAPI import and multi-language code generation.
-
 ## License
 
 MIT
